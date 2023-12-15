@@ -12,19 +12,19 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/
     - [P04_HTMLForm-RegistrationForm - Learn HTML Forms by Building a Registration Form](#p04_htmlform-registrationform---learn-html-forms-by-building-a-registration-form)
     - [P05_SurveyForm](#p05_surveyform)
     - [P06_CSSBoxModel-RothkoPainting - Learn the CSS Box Model by Building a Rothko Painting](#p06_cssboxmodel-rothkopainting---learn-the-css-box-model-by-building-a-rothko-painting)
-    - [P07_CSSFlexbox-PhotoGallery - Learn CSS Flexbox by Building a Photo Gallery, Completed](#p07_cssflexbox-photogallery---learn-css-flexbox-by-building-a-photo-gallery-completed)
-    - [P08_Typography-NutritionLabel - Learn Typography by Building a Nutrition Label, Completed](#p08_typography-nutritionlabel---learn-typography-by-building-a-nutrition-label-completed)
-    - [P09-Accessibility-Quiz - Learn Accessibility by Building a Quiz, Completed](#p09-accessibility-quiz---learn-accessibility-by-building-a-quiz-completed)
+    - [P07_CSSFlexbox-PhotoGallery - Learn CSS Flexbox by Building a Photo Gallery](#p07_cssflexbox-photogallery---learn-css-flexbox-by-building-a-photo-gallery-completed)
+    - [P08_Typography-NutritionLabel - Learn Typography by Building a Nutrition Label](#p08_typography-nutritionlabel---learn-typography-by-building-a-nutrition-label-completed)
+    - [P09-Accessibility-Quiz - Learn Accessibility by Building a Quiz](#p09-accessibility-quiz---learn-accessibility-by-building-a-quiz-completed)
     - [P10_TributePage](#p10_tributepage)
-    - [P11_CSSPseudoSelector-BalanceSheet - Learn More About CSS Pseudo Selectors By Building A Balance Sheet, Completed](#p11_csspseudoselector-balancesheet---learn-more-about-css-pseudo-selectors-by-building-a-balance-sheet-completed)
-    - [P12_IntermediateCSS-CatPainting - Learn Intermediate CSS by Building a Cat Painting, Completed](#p12_intermediatecss-catpainting---learn-intermediate-css-by-building-a-cat-painting-completed)
-    - [P13_ResponsiveWeb-Piano - Learn Responsive Web Design by Building a Piano, Completed](#p13_responsiveweb-piano---learn-responsive-web-design-by-building-a-piano-completed)
+    - [P11_CSSPseudoSelector-BalanceSheet - Learn More About CSS Pseudo Selectors By Building A Balance Sheet](#p11_csspseudoselector-balancesheet---learn-more-about-css-pseudo-selectors-by-building-a-balance-sheet-completed)
+    - [P12_IntermediateCSS-CatPainting - Learn Intermediate CSS by Building a Cat Painting](#p12_intermediatecss-catpainting---learn-intermediate-css-by-building-a-cat-painting-completed)
+    - [P13_ResponsiveWeb-Piano - Learn Responsive Web Design by Building a Piano](#p13_responsiveweb-piano---learn-responsive-web-design-by-building-a-piano-completed)
     - [P14_TechnicalDocumentationPage - Certification Project](#p14_technicaldocumentationpage---certification-project)
-    - [P15_CSSVariables-CitySkyline - Learn CSS Variables by Building a City Skyline, Completed](#p15_cssvariables-cityskyline---learn-css-variables-by-building-a-city-skyline-completed)
-    - [P16_CSSGrid-Magazine - Learn CSS Grid by Building a Magazine, Completed](#p16_cssgrid-magazine---learn-css-grid-by-building-a-magazine-completed)
+    - [P15_CSSVariables-CitySkyline - Learn CSS Variables by Building a City Skyline](#p15_cssvariables-cityskyline---learn-css-variables-by-building-a-city-skyline-completed)
+    - [P16_CSSGrid-Magazine - Learn CSS Grid by Building a Magazine](#p16_cssgrid-magazine---learn-css-grid-by-building-a-magazine-completed)
     - [P17_ProductLandingPage](#p17_productlandingpage)
-    - [P18_CSSAnimation-FerrisWheel - Learn CSS Animation by Building a Ferris Wheel, Completed](#p18_cssanimation-ferriswheel---learn-css-animation-by-building-a-ferris-wheel-completed)
-    - [P19_CSSTransform-Penguin - Learn CSS Transforms by Building a Penguin, Completed](#p19_csstransform-penguin---learn-css-transforms-by-building-a-penguin-completed)
+    - [P18_CSSAnimation-FerrisWheel - Learn CSS Animation by Building a Ferris Wheel](#p18_cssanimation-ferriswheel---learn-css-animation-by-building-a-ferris-wheel-completed)
+    - [P19_CSSTransform-Penguin - Learn CSS Transforms by Building a Penguin](#p19_csstransform-penguin---learn-css-transforms-by-building-a-penguin-completed)
     - [P20_PersonalPortfolioWeb](#p20_personalportfolioweb)
 
 ## Description
@@ -68,17 +68,17 @@ Every HTML element is its own box – with its own spacing and a border. This is
 
 In this course, you'll use CSS and the Box Model to create your own Rothko-style rectangular art pieces.
 
-### P07_CSSFlexbox-PhotoGallery - Learn CSS Flexbox by Building a Photo Gallery, Completed
+### P07_CSSFlexbox-PhotoGallery - Learn CSS Flexbox by Building a Photo Gallery
 Flexbox helps you design your webpage so that it looks good on any screen size.
 
 In this course, you'll use Flexbox to build a responsive photo gallery webpage.
 
-### P08_Typography-NutritionLabel - Learn Typography by Building a Nutrition Label, Completed
+### P08_Typography-NutritionLabel - Learn Typography by Building a Nutrition Label
 Typography is the art of styling your text to be easily readable and suit its purpose.
 
 In this course, you'll use typography to build a nutrition label webpage. You'll learn how to style text, adjust line height, and position your text using CSS.
 
-### P09-Accessibility-Quiz - Learn Accessibility by Building a Quiz, Completed
+### P09-Accessibility-Quiz - Learn Accessibility by Building a Quiz
 Accessibility is making your webpage easy for all people to use – even people with disabilities.
 
 In this course, you'll build a quiz webpage. You'll learn accessibility tools such as keyboard shortcuts, ARIA attributes, and design best practices.
@@ -88,17 +88,17 @@ This is one of the required projects to earn your certification.
 
 For this project, you will build a tribute page for a subject of your choosing, fictional or real.
 
-### P11_CSSPseudoSelector-BalanceSheet - Learn More About CSS Pseudo Selectors By Building A Balance Sheet, Completed
+### P11_CSSPseudoSelector-BalanceSheet - Learn More About CSS Pseudo Selectors By Building A Balance Sheet
 You can use CSS pseudo selectors to change specific HTML elements.
 
 In this course, you'll build a balance sheet using pseudo selectors. You'll learn how to change the style of an element when you hover over it with your mouse, and trigger other events on your webpage.
 
-### P12_IntermediateCSS-CatPainting - Learn Intermediate CSS by Building a Cat Painting, Completed
+### P12_IntermediateCSS-CatPainting - Learn Intermediate CSS by Building a Cat Painting
 Mastering CSS positioning is essential for creating visually appealing and responsive web layouts
 
 In this course, you will build a cat painting. You'll learn about how to work with absolute positioning, the z-index property, and the transform property.
 
-### P13_ResponsiveWeb-Piano - Learn Responsive Web Design by Building a Piano, Completed
+### P13_ResponsiveWeb-Piano - Learn Responsive Web Design by Building a Piano
 Responsive Design tells your webpage how it should look on different-sized screens.
 
 In this course, you'll use CSS and Responsive Design to code a piano. You'll also learn more about media queries and pseudo selectors.
@@ -108,12 +108,12 @@ This is one of the required projects to earn your certification.
 
 For this project, you will build a technical documentation page to serve as instruction or reference for a topic.
 
-### P15_CSSVariables-CitySkyline - Learn CSS Variables by Building a City Skyline, Completed
+### P15_CSSVariables-CitySkyline - Learn CSS Variables by Building a City Skyline
 CSS variables help you organize your styles and reuse them.
 
 In this course, you'll build a city skyline. You'll learn how to configure CSS variables so you can reuse them whenever you want.
 
-### P16_CSSGrid-Magazine - Learn CSS Grid by Building a Magazine, Completed
+### P16_CSSGrid-Magazine - Learn CSS Grid by Building a Magazine
 CSS Grid gives you control over the rows and columns of your webpage design.
 
 In this course, you'll build a magazine article. You'll learn how to use CSS Grid, including concepts like grid rows and grid columns.
@@ -123,12 +123,12 @@ This is one of the required projects to earn your certification.
 
 For this project, you will build a product landing page to market a product of your choice.
 
-### P18_CSSAnimation-FerrisWheel - Learn CSS Animation by Building a Ferris Wheel, Completed
+### P18_CSSAnimation-FerrisWheel - Learn CSS Animation by Building a Ferris Wheel
 You can use CSS animation to draw attention to specific sections of your webpage and make it more engaging.
 
 In this course, you'll build a Ferris wheel. You'll learn how to use CSS to animate elements, transform them, and adjust their speed.
 
-### P19_CSSTransform-Penguin - Learn CSS Transforms by Building a Penguin, Completed
+### P19_CSSTransform-Penguin - Learn CSS Transforms by Building a Penguin
 You can transform HTML elements to create appealing designs that draw your reader's eye. You can use transforms to rotate elements, scale them, and more.
 
 In this course, you'll build a penguin. You'll use CSS transforms to position and resize the parts of your penguin, create a background, and animate your work.
