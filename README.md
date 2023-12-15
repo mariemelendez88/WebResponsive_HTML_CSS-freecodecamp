@@ -10,22 +10,22 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/
     - [P02_BasicCSS-CafeMenu - Learn Basic CSS by Building a Cafe Menu](#p02_basiccss-cafemenu---learn-basic-css-by-building-a-cafe-menu)
     - [P03_CSSColors-ColoredMarkers - Learn CSS Colors by Building a Set of Colored Markers](#p03_csscolors-coloredmarkers---learn-css-colors-by-building-a-set-of-colored-markers)
     - [P04_HTMLForm-RegistrationForm - Learn HTML Forms by Building a Registration Form](#p04_htmlform-registrationform---learn-html-forms-by-building-a-registration-form)
-    - [P05_SurveyForm](#p05_surveyform)
+    - [P05_SurveyForm - Build a Survey Form](#p05_surveyform---build-a-survey-form)
     - [P06_CSSBoxModel-RothkoPainting - Learn the CSS Box Model by Building a Rothko Painting](#p06_cssboxmodel-rothkopainting---learn-the-css-box-model-by-building-a-rothko-painting)
-    - [P07_CSSFlexbox-PhotoGallery - Learn CSS Flexbox by Building a Photo Gallery](#p07_cssflexbox-photogallery---learn-css-flexbox-by-building-a-photo-gallery-completed)
-    - [P08_Typography-NutritionLabel - Learn Typography by Building a Nutrition Label](#p08_typography-nutritionlabel---learn-typography-by-building-a-nutrition-label-completed)
-    - [P09-Accessibility-Quiz - Learn Accessibility by Building a Quiz](#p09-accessibility-quiz---learn-accessibility-by-building-a-quiz-completed)
-    - [P10_TributePage](#p10_tributepage)
-    - [P11_CSSPseudoSelector-BalanceSheet - Learn More About CSS Pseudo Selectors By Building A Balance Sheet](#p11_csspseudoselector-balancesheet---learn-more-about-css-pseudo-selectors-by-building-a-balance-sheet-completed)
-    - [P12_IntermediateCSS-CatPainting - Learn Intermediate CSS by Building a Cat Painting](#p12_intermediatecss-catpainting---learn-intermediate-css-by-building-a-cat-painting-completed)
-    - [P13_ResponsiveWeb-Piano - Learn Responsive Web Design by Building a Piano](#p13_responsiveweb-piano---learn-responsive-web-design-by-building-a-piano-completed)
+    - [P07_CSSFlexbox-PhotoGallery - Learn CSS Flexbox by Building a Photo Gallery](#p07_cssflexbox-photogallery---learn-css-flexbox-by-building-a-photo-gallery)
+    - [P08_Typography-NutritionLabel - Learn Typography by Building a Nutrition Label](#p08_typography-nutritionlabel---learn-typography-by-building-a-nutrition-label)
+    - [P09-Accessibility-Quiz - Learn Accessibility by Building a Quiz](#p09-accessibility-quiz---learn-accessibility-by-building-a-quiz)
+    - [P10_TributePage - Build a Tribute Page](#p10_tributepage---build-a-tribute-page)
+    - [P11_CSSPseudoSelector-BalanceSheet - Learn More About CSS Pseudo Selectors By Building A Balance Sheet](#p11_csspseudoselector-balancesheet---learn-more-about-css-pseudo-selectors-by-building-a-balance-sheet)
+    - [P12_IntermediateCSS-CatPainting - Learn Intermediate CSS by Building a Cat Painting](#p12_intermediatecss-catpainting---learn-intermediate-css-by-building-a-cat-painting)
+    - [P13_ResponsiveWeb-Piano - Learn Responsive Web Design by Building a Piano](#p13_responsiveweb-piano---learn-responsive-web-design-by-building-a-piano)
     - [P14_TechnicalDocumentationPage - Certification Project](#p14_technicaldocumentationpage---certification-project)
-    - [P15_CSSVariables-CitySkyline - Learn CSS Variables by Building a City Skyline](#p15_cssvariables-cityskyline---learn-css-variables-by-building-a-city-skyline-completed)
-    - [P16_CSSGrid-Magazine - Learn CSS Grid by Building a Magazine](#p16_cssgrid-magazine---learn-css-grid-by-building-a-magazine-completed)
-    - [P17_ProductLandingPage](#p17_productlandingpage)
-    - [P18_CSSAnimation-FerrisWheel - Learn CSS Animation by Building a Ferris Wheel](#p18_cssanimation-ferriswheel---learn-css-animation-by-building-a-ferris-wheel-completed)
-    - [P19_CSSTransform-Penguin - Learn CSS Transforms by Building a Penguin](#p19_csstransform-penguin---learn-css-transforms-by-building-a-penguin-completed)
-    - [P20_PersonalPortfolioWeb](#p20_personalportfolioweb)
+    - [P15_CSSVariables-CitySkyline - Learn CSS Variables by Building a City Skyline](#p15_cssvariables-cityskyline---learn-css-variables-by-building-a-city-skyline)
+    - [P16_CSSGrid-Magazine - Learn CSS Grid by Building a Magazine](#p16_cssgrid-magazine---learn-css-grid-by-building-a-magazine)
+    - [P17_ProductLandingPage - Build a Product Landing Page](#p17_productlandingpage---build-a-product-landing-page)
+    - [P18_CSSAnimation-FerrisWheel - Learn CSS Animation by Building a Ferris Wheel](#p18_cssanimation-ferriswheel---learn-css-animation-by-building-a-ferris-wheel)
+    - [P19_CSSTransform-Penguin - Learn CSS Transforms by Building a Penguin](#p19_csstransform-penguin---learn-css-transforms-by-building-a-penguin)
+    - [P20_PersonalPortfolioWeb - Build a Personal Portfolio Webpage](#p20_personalportfolioweb---build-a-personal-portfolio-webpage)
 
 ## Description
 
@@ -46,7 +46,6 @@ CSS tells the browser how to display your webpage. You can use CSS to set the co
 
 In this course, you'll learn CSS by designing a menu page for a cafe webpage.
 
-
 ### P03_CSSColors-ColoredMarkers - Learn CSS Colors by Building a Set of Colored Markers
 Selecting the correct colors for your webpage can greatly improve the aesthetic appeal to your readers.
 
@@ -57,8 +56,7 @@ You can use HTML forms to collect information from people who visit your webpage
 
 In this course, you'll learn HTML forms by building a signup page. You'll learn how to control what types of data people can type into your form, and some new CSS tools for styling your page.
 
-### P05_SurveyForm
-
+### P05_SurveyForm - Build a Survey Form
 This is one of the required projects to earn your certification.
 
 For this project, you will build a survey form to collect data from your users.
@@ -83,7 +81,7 @@ Accessibility is making your webpage easy for all people to use – even people 
 
 In this course, you'll build a quiz webpage. You'll learn accessibility tools such as keyboard shortcuts, ARIA attributes, and design best practices.
 
-### P10_TributePage
+### P10_TributePage - Build a Tribute Page
 This is one of the required projects to earn your certification.
 
 For this project, you will build a tribute page for a subject of your choosing, fictional or real.
@@ -118,7 +116,7 @@ CSS Grid gives you control over the rows and columns of your webpage design.
 
 In this course, you'll build a magazine article. You'll learn how to use CSS Grid, including concepts like grid rows and grid columns.
 
-### P17_ProductLandingPage
+### P17_ProductLandingPage - Build a Product Landing Page
 This is one of the required projects to earn your certification.
 
 For this project, you will build a product landing page to market a product of your choice.
@@ -133,7 +131,8 @@ You can transform HTML elements to create appealing designs that draw your reade
 
 In this course, you'll build a penguin. You'll use CSS transforms to position and resize the parts of your penguin, create a background, and animate your work.
 
-### P20_PersonalPortfolioWeb
+### P20_PersonalPortfolioWeb - Build a Personal Portfolio Webpage
 This is one of the required projects to earn your certification.
 
 For this project, you will build your own personal portfolio page.
+
